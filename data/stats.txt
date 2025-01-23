@@ -1,0 +1,16 @@
+first_time_play=0
+day_count=11
+time_count=0
+time_print=    
+health_count=100
+food_count=41
+energy_count=85
+wood_count=666
+stone_count=848
+logging_camp=1
+shack=1
+quarry=1
+workshop=1
+upgrade_axe=1
+chainsaw=1
+upgrade_quarry=1
